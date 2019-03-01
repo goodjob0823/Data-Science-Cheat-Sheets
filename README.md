@@ -274,7 +274,7 @@ From @afshinea:
 
 
 # Deep Learning
-a
+
 ## Neural Nets
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Cells.png)
