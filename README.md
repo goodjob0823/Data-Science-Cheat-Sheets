@@ -128,7 +128,7 @@ List of Data Science Cheatsheets to rule the world.
 - [Xplain (PDF)](https://github.com/rstudio/cheatsheets/blob/master/xplain.pdf)
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/xplain.png)
 
-- [Sintax Comparison (PDF)](https://github.com/rstudio/cheatsheets/blob/master/syntax.pdf)
+- [Syntax Comparison (PDF)](https://github.com/rstudio/cheatsheets/blob/master/syntax.pdf)
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/syntax.png)
 
 - [Data and Variable Transformation with sjmisc (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sjmisc.pdf)
