@@ -54,6 +54,8 @@ List of Data Science Cheatsheets to rule the world.
 - [Numpy Basics (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/numpy_basics.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/img/numpy_basics-1.png)
 
+- [SciPy (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Python/Datacamp/scipy_linear_algebra.pdf)
+
 ## [Python Crash Course](https://github.com/ehmatthes/pcc)
 
 - [Begginers Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.pdf)
@@ -264,6 +266,7 @@ From @afshinea:
 
 ## Chossing the right model
 
+- [Microsoft Azure Machine Learning: Algorithm (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Machine_Learning/Choosing_Model/microsoft-machine-learning-algorithm-cheat-sheet-v7.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/microsoft-machine-learning-algorithm-cheat-sheet-v7-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/ml_map_scikit_learn.png)
 
