@@ -206,7 +206,7 @@ From @afshinea, @stat110 and @wzchen:
 
 ## Python
 
-- [Scitk-Learn (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/scikit-learn.pdf)
+- [Scikit-Learn (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/scikit-learn.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/img/scikit-learn-1.png)
 
@@ -268,11 +268,13 @@ From @afshinea:
 
 - [Microsoft Azure Machine Learning: Algorithm (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Machine_Learning/Choosing_Model/microsoft-machine-learning-algorithm-cheat-sheet-v7.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/microsoft-machine-learning-algorithm-cheat-sheet-v7-1.png)
+
+- [ML Map_Scikit-Learn (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Machine_Learning/Choosing_Model/ml_map_scikit_learn.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/ml_map_scikit_learn.png)
 
 
 # Deep Learning
-
+a
 ## Neural Nets
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Cells.png)
