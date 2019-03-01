@@ -55,6 +55,7 @@ List of Data Science Cheatsheets to rule the world.
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/img/numpy_basics-1.png)
 
 - [SciPy (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Python/Datacamp/scipy_linear_algebra.pdf)
+![](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Python/Datacamp/img/scipy_linear_algebra-1.png)
 
 ## [Python Crash Course](https://github.com/ehmatthes/pcc)
 
