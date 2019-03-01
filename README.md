@@ -279,6 +279,7 @@ a
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Cells.png)
 
+- [Neural Network Graphs (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Deep_Learning/Neural%20Networks%20Graphs-2.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Graphs.png)
 
 ## R
