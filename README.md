@@ -277,10 +277,14 @@ From @afshinea:
 
 ## Neural Nets
 
+- [Neural Network Cells (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Deep_Learning/Neural%20Network%20Cells.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Cells.png)
 
 - [Neural Network Graphs (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Deep_Learning/Neural%20Networks%20Graphs-2.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Graphs.png)
+
+- [Complete Chart of Neural Networks (PDF)](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Deep_Learning/Complete%20Chart%20of%20Neural%20Networks.pdf)
+![](https://github.com/goodjob0823/Data-Science-Cheat-Sheets/blob/master/Deep_Learning/Complete%20Chart%20of%20Neural%20Networks.png)
 
 ## R
 
