@@ -96,62 +96,48 @@ List of Data Science Cheatsheets to rule the world.
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/rstudio-ide.png)
 
 - [Base R (PDF)](https://github.com/rstudio/cheatsheets/blob/master/base-r.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/base-r.png)
 
 - [Data Import with readr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-import.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-import.png)
 
 - [Data Transformation with Dplyr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-transformation.png)
 
 - [Apply Functions with purrr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/purrr.png)
 
 - [Data transformation with data.table (PDF)](https://github.com/rstudio/cheatsheets/blob/master/datatable.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/datatable.png)
 
 - [Dates and Times with lubridate (PDF)](https://github.com/rstudio/cheatsheets/blob/master/lubridate.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/lubridate.png)
 
 - [Randomizr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/randomizr.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/randomizr.png)
 
 - [Regular Expressions (PDF)](https://github.com/rstudio/cheatsheets/blob/master/regex.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/regular-expressions.png)
 
 - [Work with Strings with stringr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/strings.png)
 
 - [Tidy Evaluation with rlang (PDF)](https://github.com/rstudio/cheatsheets/blob/master/tidyeval.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/tidyeval.png)
 
 - [Xplain (PDF)](https://github.com/rstudio/cheatsheets/blob/master/xplain.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/xplain.png)
 
 - [Sintax Comparison (PDF)](https://github.com/rstudio/cheatsheets/blob/master/syntax.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/syntax.png)
 
 - [Data and Variable Transformation with sjmisc (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sjmisc.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sjmisc.png)
 
 - [R Markdown (PDF)](https://github.com/rstudio/cheatsheets/blob/master/rmarkdown-2.0.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/rmarkdown-2.0.png)
 
 - [Package Development with devtools (PDF)](https://github.com/rstudio/cheatsheets/blob/master/package-development.pdf)
-
 ![](https://github.com/rstudio/cheatsheets/blob/master/pngs/package-development.png)
 
 
